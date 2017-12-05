@@ -1,5 +1,5 @@
 ---
-title: "Jones_HW2_Codev2"
+title: "Jones_HW3_PartA"
 output:
   pdf_document: default
   html_document: default
